@@ -1,0 +1,11 @@
+html,body,#app,.main{
+    height: 100%;
+}
+.fl{float: left;}
+.fr{float: right;}
+.appContent *{
+    box-shadow: 0 0 .1px 0px red;
+}
+.w20{width: 20%}
+.w80{width: 80%;}
+.h100{height: 100%;}
